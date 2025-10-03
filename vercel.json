@@ -1,0 +1,10 @@
+{
+    "$schema": "https://openapi.vercel.sh/vercel.json",
+    "version": 2,
+    "name": "acg-tools-site",
+    "framework": "nextjs",
+    "buildCommand": "yarn build:vercel",
+    "installCommand": "yarn install",
+    "cleanUrls": true,
+    "trailingSlash": false
+}
